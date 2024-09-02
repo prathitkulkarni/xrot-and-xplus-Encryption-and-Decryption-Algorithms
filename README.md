@@ -30,4 +30,4 @@ To use the application, compile the code and run the executable with appropriate
 ### Compilation
 
 ```bash
-gcc -o encryption_decryption encryption_decryption.c
+gcc -o final final.c
